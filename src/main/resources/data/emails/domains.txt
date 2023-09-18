@@ -1,54 +1,3 @@
-@alabama.com,
-@alaska.com,
-@arizona.com,
-@arkansas.com,
-@california.com,
-@colorado.com,
-@connecticut.com,
-@delaware.com,
-@florida.com,
-@georgia.com,
-@hawaii.com,
-@idaho.com,
-@illinois.com,
-@indiana.com,
-@iowa.com,
-@kansas.com,
-@kentucky.com,
-@louisiana.com,
-@maine.com,
-@maryland.com,
-@massachusetts.com,
-@michigan.com,
-@minnesota.com,
-@mississippi.com,
-@missouri.com,
-@montana.com,
-@nebraska.com,
-@nevada.com,
-@newhampshire.com,
-@newjersey.com,
-@newmexico.com,
-@newyork.com,
-@northcarolina.com,
-@northdakota.com,
-@ohio.com,
-@oklahoma.com,
-@oregon.com,
-@pennsylvania.com,
-@rhodeisland.com,
-@southcarolina.com,
-@southdakota.com,
-@tennessee.com,
-@texas.com,
-@utah.com,
-@vermont.com,
-@virginia.com,
-@washington.com,
-@westvirginia.com,
-@wisconsin.com,
-@wyoming.com
-
 AK - Alaska
 AL - Alabama
 AR - Arkansas
@@ -99,13 +48,3 @@ WA - Washington
 WI - Wisconsin
 WV - West Virginia
 WY - Wyoming
-#
-AS - American Samoa
-DC - District of Columbia
-FM - Federated States of Micronesia
-GU - Guam
-MH - Marshall Islands
-MP - Northern Mariana Islands
-PR - Puerto Rico
-PW - Palau
-VI - Virgin Islands
