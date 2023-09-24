@@ -25,5 +25,4 @@ public class OutputCustomer {
     private String country;
     private String postalCode;
     private Double priceReduction;
-    private String currency;
 }
